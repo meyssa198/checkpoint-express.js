@@ -1,0 +1,27 @@
+.logo{
+    height: 50px;
+    width: 50px;
+    margin-right: 1000px;
+}
+.main{
+    display: flex;
+}
+.main-card{
+    margin : 100px 20px 20px 25px;
+}
+.img{
+    margin-left: 27%;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    padding-top: 30px;
+    font-weight: 800;
+    font-family: 'Fira Sans', sans-serif;
+    color: rgb(136, 83, 39);
+    text-decoration: underline;
+}
+.img-contact{
+    width: 900px;
+    margin-left: 15%;
+}
